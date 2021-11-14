@@ -2,7 +2,7 @@
 layout: default
 date: 2020-06-01
 title: <span style='font-family:Menlo, Courier, monospace'>=nil;</span> Crypto3's Mina-Ethereum Bridge
-link: "https://mina.nil.foundation/projects/verification"
+link: "https://verify.mina.nil.foundation"
 category: 
 img: logos.png
 tags: project
